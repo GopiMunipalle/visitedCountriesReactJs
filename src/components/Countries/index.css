@@ -1,0 +1,27 @@
+.heading-2 {
+  font-size: 15px;
+  margin-left: 17px;
+}
+
+.items-card {
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px #f8fafc;
+  padding: 7px;
+  border-radius: 3px;
+}
+.visit-btn {
+  background-color: #3b82f6;
+  padding: 3px;
+  border-radius: 3px;
+  width: 60px;
+  color: #f8fafc;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.visited-btn {
+  background-color: inherit;
+  color: #94a3b8;
+  padding: 10px;
+}
